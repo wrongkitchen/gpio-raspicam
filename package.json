@@ -1,0 +1,10 @@
+{
+  "name": "gpio-cam",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "raspicam": "~0.2.13",
+    "scp2": "~0.1.4",
+    "onoff": "~0.3.2"
+  }
+}
